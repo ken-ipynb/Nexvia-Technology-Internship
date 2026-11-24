@@ -1,0 +1,6 @@
+outs:
+- md5: 61c298237dc2f43c195e2fa3eb315ace.dir
+  size: 4503925635
+  nfiles: 11213
+  hash: md5
+  path: sample

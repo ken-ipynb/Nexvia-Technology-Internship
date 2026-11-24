@@ -1,0 +1,6 @@
+outs:
+- md5: 51933b2ff2613a97fa6effd3387ba80c.dir
+  size: 101722
+  nfiles: 2
+  hash: md5
+  path: model_repository

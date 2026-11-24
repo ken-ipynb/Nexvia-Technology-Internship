@@ -1,0 +1,41 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Large medical dataset
+data/3D_Medical_Scan/
+
+# Preprocessed cache
+processed/segmentation_train_cache/
+processed/segmentation_val_cache/
+processed/segmentation_cache_test/
+outputs/metrics/segmentation_cache_verification.csv
+outputs/metrics/segmentation_evaluation.csv
+
+# Model files not managed by DVC
+*.pth
+*.pt
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node dependencies
+node_modules/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Local Python environments
+.venv/
+venv/
+
+# IDE files
+.vscode/
+.idea/
+# Local audit database
+backend/audit_log.db
+# Temporary DVC status report
+dvc_status.txt
+# Large demo video
+demo/video/*.mp4

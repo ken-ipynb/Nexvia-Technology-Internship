@@ -1,0 +1,23 @@
+
+services:
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: medical-ai-backend
+    ports:
+      - "8000:8000"
+    environment:
+      ORTHANC_URL: "http://host.docker.internal:8042"
+    volumes:
+      - ./backend/audit_log.db:/app/backend/audit_log.db
+
+  frontend:
+    build:
+      context: .
+      dockerfile: Frontend/Dockerfile
+    container_name: medical-ai-frontend
+    ports:
+      - "5173:80"
+    depends_on:
+      - backend

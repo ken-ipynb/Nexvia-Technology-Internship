@@ -1,0 +1,6 @@
+outs:
+- md5: 5ed2bf96a20332ce8eccaced50727999.dir
+  size: 26951998
+  nfiles: 252
+  hash: md5
+  path: dicom sample

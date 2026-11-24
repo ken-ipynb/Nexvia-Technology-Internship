@@ -1,0 +1,16 @@
+.git/
+.dvc/
+data/
+processed/
+notebook/
+demo/
+documentation/
+Frontend/node_modules/
+Frontend/.git/
+backend/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+outputs/gradcam/
+outputs/metrics/
+outputs/segmentation_results/

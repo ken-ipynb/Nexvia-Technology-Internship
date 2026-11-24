@@ -1,0 +1,540 @@
+Image Index,Finding Labels,Follow-up #,Patient ID,Patient Age,Patient Gender,View Position,OriginalImageWidth,OriginalImageHeight,OriginalImagePixelSpacing_x,OriginalImagePixelSpacing_y,Atelectasis,Cardiomegaly,Effusion,Infiltration,Mass,Nodule,Pneumonia,Pneumothorax,Consolidation,Edema,Emphysema,Fibrosis,Pleural_Thickening,Hernia,Image Path
+00000099_003.png,['Effusion'],3,99,056Y,F,PA,2830,2801,0.143,0.143,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000099_003.png
+00000099_006.png,['No Finding'],6,99,058Y,F,AP,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000099_006.png
+00000118_011.png,['Pneumothorax'],11,118,073Y,M,PA,2774,2991,0.143,0.143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000118_011.png
+00000154_001.png,"['Infiltration', 'Nodule']",1,154,056Y,F,PA,2048,2500,0.168,0.168,0,0,0,1,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000154_001.png
+00000239_003.png,['No Finding'],3,239,049Y,F,PA,2654,2453,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000239_003.png
+00000251_000.png,['No Finding'],0,251,044Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000251_000.png
+00000268_001.png,['Infiltration'],1,268,049Y,M,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000268_001.png
+00000269_001.png,['No Finding'],1,269,045Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000269_001.png
+00000376_007.png,"['Emphysema', 'Mass']",7,376,048Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,1,0,0,0,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000376_007.png
+00000390_000.png,['No Finding'],0,390,021Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000390_000.png
+00000443_000.png,['No Finding'],0,443,046Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000443_000.png
+00000444_001.png,['No Finding'],1,444,045Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000444_001.png
+00000490_000.png,['Infiltration'],0,490,058Y,M,PA,2898,2851,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000490_000.png
+00000549_002.png,['No Finding'],2,549,064Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000549_002.png
+00000549_003.png,['No Finding'],3,549,064Y,F,PA,2694,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000549_003.png
+00000599_000.png,['No Finding'],0,599,060Y,F,PA,2544,3056,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000599_000.png
+00000634_008.png,['No Finding'],8,634,070Y,F,PA,2690,2840,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000634_008.png
+00000766_002.png,['No Finding'],2,766,028Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000766_002.png
+00000882_005.png,['No Finding'],5,882,052Y,F,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000882_005.png
+00000996_001.png,['No Finding'],1,996,040Y,M,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000996_001.png
+00000996_002.png,['No Finding'],2,996,041Y,M,PA,2021,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00000996_002.png
+00001034_004.png,['No Finding'],4,1034,073Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001034_004.png
+00001104_011.png,['No Finding'],11,1104,057Y,M,AP,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001104_011.png
+00001104_012.png,['No Finding'],12,1104,057Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001104_012.png
+00001148_001.png,['No Finding'],1,1148,016Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001148_001.png
+00001173_000.png,['No Finding'],0,1173,032Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001173_000.png
+00001214_000.png,['Mass'],0,1214,067Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001214_000.png
+00001272_000.png,['No Finding'],0,1272,029Y,F,PA,1732,2018,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001272_000.png
+00001278_005.png,['No Finding'],5,1278,054Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001278_005.png
+00001278_012.png,['No Finding'],12,1278,054Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001278_012.png
+00001409_002.png,['Fibrosis'],2,1409,057Y,M,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,1,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001409_002.png
+00001445_003.png,['No Finding'],3,1445,014Y,M,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001445_003.png
+00001500_001.png,['No Finding'],1,1500,062Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001500_001.png
+00001521_000.png,['No Finding'],0,1521,056Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001521_000.png
+00001526_007.png,['Infiltration'],7,1526,020Y,M,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001526_007.png
+00001558_003.png,['Infiltration'],3,1558,055Y,M,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001558_003.png
+00001558_005.png,"['Atelectasis', 'Consolidation', 'Effusion']",5,1558,055Y,M,PA,2992,2991,0.143,0.143,1,0,1,0,0,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001558_005.png
+00001558_008.png,['Effusion'],8,1558,055Y,M,AP,2500,2048,0.168,0.168,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001558_008.png
+00001558_018.png,"['Atelectasis', 'Consolidation', 'Effusion']",18,1558,055Y,M,AP,2500,2048,0.168,0.168,1,0,1,0,0,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001558_018.png
+00001609_002.png,"['Effusion', 'Pneumothorax']",2,1609,039Y,M,AP,2500,2048,0.168,0.168,0,0,1,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001609_002.png
+00001650_011.png,['Effusion'],11,1650,063Y,M,PA,2992,2991,0.143,0.143,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001650_011.png
+00001661_000.png,['No Finding'],0,1661,016Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001661_000.png
+00001692_000.png,['Infiltration'],0,1692,067Y,F,PA,1742,2021,0.194311,0.194311,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001692_000.png
+00001700_008.png,['No Finding'],8,1700,059Y,M,PA,2992,2989,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001700_008.png
+00001782_000.png,"['Atelectasis', 'Effusion', 'Infiltration', 'Nodule']",0,1782,057Y,F,PA,2048,2500,0.171,0.171,1,0,1,1,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001782_000.png
+00001833_005.png,['Emphysema'],5,1833,062Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001833_005.png
+00001935_000.png,['No Finding'],0,1935,051Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001935_000.png
+00001943_000.png,['No Finding'],0,1943,033Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001943_000.png
+00001984_011.png,['Infiltration'],11,1984,064Y,M,PA,2992,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001984_011.png
+00001996_001.png,['No Finding'],1,1996,048Y,F,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00001996_001.png
+00002066_014.png,['Nodule'],14,2066,080Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002066_014.png
+00002115_001.png,['No Finding'],1,2115,046Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002115_001.png
+00002163_000.png,['No Finding'],0,2163,040Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002163_000.png
+00002259_000.png,['No Finding'],0,2259,051Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002259_000.png
+00002351_001.png,['No Finding'],1,2351,046Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002351_001.png
+00002382_000.png,['No Finding'],0,2382,011Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002382_000.png
+00002387_006.png,"['Consolidation', 'Pneumothorax']",6,2387,047Y,F,PA,2402,2673,0.143,0.143,0,0,0,0,0,0,0,1,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002387_006.png
+00002407_001.png,['No Finding'],1,2407,060Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002407_001.png
+00002437_000.png,['No Finding'],0,2437,054Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002437_000.png
+00002437_047.png,['No Finding'],47,2437,059Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002437_047.png
+00002482_004.png,['Infiltration'],4,2482,057Y,F,PA,2474,2681,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002482_004.png
+00002484_002.png,['Atelectasis'],2,2484,045Y,F,AP,2500,2048,0.171,0.171,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002484_002.png
+00002492_001.png,['No Finding'],1,2492,048Y,F,PA,2544,3056,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002492_001.png
+00002492_005.png,['No Finding'],5,2492,051Y,F,PA,1887,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002492_005.png
+00002524_013.png,['Effusion'],13,2524,051Y,M,AP,2500,2048,0.171,0.171,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002524_013.png
+00002524_032.png,['Emphysema'],32,2524,056Y,M,PA,2682,2681,0.143,0.143,0,0,0,0,0,0,0,0,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002524_032.png
+00002524_033.png,['No Finding'],33,2524,058Y,M,PA,2918,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002524_033.png
+00002529_020.png,['Infiltration'],20,2529,018Y,F,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002529_020.png
+00002529_026.png,['No Finding'],26,2529,018Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002529_026.png
+00002547_006.png,['Infiltration'],6,2547,064Y,F,PA,1960,2021,0.194314,0.194314,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002547_006.png
+00002547_007.png,['No Finding'],7,2547,051Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002547_007.png
+00002706_004.png,['No Finding'],4,2706,050Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002706_004.png
+00002716_000.png,['Nodule'],0,2716,014Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002716_000.png
+00002725_000.png,['No Finding'],0,2725,049Y,M,PA,3056,2540,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002725_000.png
+00002777_000.png,"['Effusion', 'Pleural_Thickening']",0,2777,058Y,F,PA,2048,2500,0.171,0.171,0,0,1,0,0,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002777_000.png
+00002798_001.png,['No Finding'],1,2798,069Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002798_001.png
+00002927_002.png,['Atelectasis'],2,2927,052Y,F,AP,2500,2048,0.168,0.168,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002927_002.png
+00002927_003.png,['No Finding'],3,2927,054Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002927_003.png
+00002986_002.png,['No Finding'],2,2986,051Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00002986_002.png
+00003043_000.png,['No Finding'],0,3043,041Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003043_000.png
+00003122_015.png,['No Finding'],15,3122,057Y,M,PA,2990,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003122_015.png
+00003122_017.png,['No Finding'],17,3122,057Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003122_017.png
+00003159_001.png,['No Finding'],1,3159,040Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003159_001.png
+00003177_002.png,['Pleural_Thickening'],2,3177,035Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003177_002.png
+00003295_000.png,['No Finding'],0,3295,034Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003295_000.png
+00003393_001.png,['No Finding'],1,3393,058Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003393_001.png
+00003393_008.png,['No Finding'],8,3393,058Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003393_008.png
+00003393_020.png,['Infiltration'],20,3393,058Y,M,AP,2500,2048,0.171,0.171,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003393_020.png
+00003393_021.png,['Nodule'],21,3393,058Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003393_021.png
+00003393_050.png,['No Finding'],50,3393,058Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003393_050.png
+00003395_005.png,['Cardiomegaly'],5,3395,041Y,F,PA,2992,2991,0.143,0.143,0,1,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003395_005.png
+00003446_000.png,['Atelectasis'],0,3446,049Y,M,PA,2500,2048,0.171,0.171,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003446_000.png
+00003529_002.png,['Atelectasis'],2,3529,048Y,F,PA,2594,2765,0.143,0.143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003529_002.png
+00003573_003.png,['Atelectasis'],3,3573,060Y,M,AP,2500,2048,0.171,0.171,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003573_003.png
+00003610_020.png,['No Finding'],20,3610,033Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003610_020.png
+00003631_000.png,['No Finding'],0,3631,051Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003631_000.png
+00003722_019.png,"['Atelectasis', 'Consolidation']",19,3722,055Y,M,PA,2992,2991,0.143,0.143,1,0,0,0,0,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003722_019.png
+00003794_000.png,['Infiltration'],0,3794,063Y,M,PA,2500,2048,0.171,0.171,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003794_000.png
+00003837_002.png,['No Finding'],2,3837,049Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003837_002.png
+00003837_008.png,['No Finding'],8,3837,052Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003837_008.png
+00003868_001.png,['No Finding'],1,3868,054Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003868_001.png
+00003868_006.png,['No Finding'],6,3868,055Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003868_006.png
+00003900_000.png,['No Finding'],0,3900,059Y,F,PA,2678,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00003900_000.png
+00004001_001.png,['Nodule'],1,4001,066Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004001_001.png
+00004091_000.png,['Atelectasis'],0,4091,063Y,F,AP,2500,2048,0.168,0.168,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004091_000.png
+00004145_000.png,['No Finding'],0,4145,026Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004145_000.png
+00004163_003.png,['Effusion'],3,4163,049Y,M,PA,2500,2048,0.171,0.171,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004163_003.png
+00004163_006.png,['No Finding'],6,4163,050Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004163_006.png
+00004205_014.png,['No Finding'],14,4205,050Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004205_014.png
+00004298_000.png,['No Finding'],0,4298,058Y,M,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004298_000.png
+00004395_000.png,['No Finding'],0,4395,052Y,M,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004395_000.png
+00004469_000.png,['No Finding'],0,4469,055Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004469_000.png
+00004639_002.png,['No Finding'],2,4639,038Y,F,PA,2750,2573,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004639_002.png
+00004717_000.png,['Atelectasis'],0,4717,051Y,F,PA,2048,2500,0.168,0.168,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004717_000.png
+00004998_000.png,['No Finding'],0,4998,012Y,M,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00004998_000.png
+00005132_000.png,['No Finding'],0,5132,056Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005132_000.png
+00005262_002.png,['No Finding'],2,5262,021Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005262_002.png
+00005365_002.png,['Atelectasis'],2,5365,013Y,F,AP,2500,2048,0.171,0.171,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005365_002.png
+00005638_003.png,['No Finding'],3,5638,059Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005638_003.png
+00005681_018.png,"['Emphysema', 'Pneumonia']",18,5681,046Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,1,0,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005681_018.png
+00005681_032.png,['No Finding'],32,5681,046Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005681_032.png
+00005694_004.png,"['Atelectasis', 'Effusion', 'Mass', 'Nodule']",4,5694,045Y,M,PA,2500,2048,0.171,0.171,1,0,1,0,1,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005694_004.png
+00005750_000.png,['No Finding'],0,5750,021Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005750_000.png
+00005750_020.png,['No Finding'],20,5750,024Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005750_020.png
+00005768_007.png,['No Finding'],7,5768,035Y,M,PA,2706,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005768_007.png
+00005908_000.png,['No Finding'],0,5908,051Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00005908_000.png
+00006269_000.png,['No Finding'],0,6269,020Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006269_000.png
+00006302_000.png,['No Finding'],0,6302,064Y,M,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006302_000.png
+00006370_000.png,['No Finding'],0,6370,085Y,F,AP,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006370_000.png
+00006409_000.png,['No Finding'],0,6409,034Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006409_000.png
+00006413_002.png,['Mass'],2,6413,034Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006413_002.png
+00006413_003.png,['No Finding'],3,6413,034Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006413_003.png
+00006417_000.png,['No Finding'],0,6417,046Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006417_000.png
+00006462_010.png,"['Atelectasis', 'Effusion']",10,6462,060Y,F,AP,2500,2048,0.168,0.168,1,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006462_010.png
+00006522_001.png,['No Finding'],1,6522,053Y,F,PA,2048,2500,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006522_001.png
+00006522_005.png,['No Finding'],5,6522,053Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006522_005.png
+00006618_000.png,['No Finding'],0,6618,046Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006618_000.png
+00006637_000.png,['No Finding'],0,6637,029Y,F,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006637_000.png
+00006752_003.png,['No Finding'],3,6752,048Y,M,PA,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006752_003.png
+00006752_006.png,['No Finding'],6,6752,048Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006752_006.png
+00006762_004.png,['Pneumothorax'],4,6762,052Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006762_004.png
+00006903_001.png,['Nodule'],1,6903,035Y,F,PA,2518,2418,0.143,0.143,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006903_001.png
+00006949_001.png,"['Effusion', 'Emphysema']",1,6949,052Y,M,AP,2500,2048,0.171,0.171,0,0,1,0,0,0,0,0,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006949_001.png
+00006968_004.png,['Atelectasis'],4,6968,068Y,M,PA,2500,2048,0.168,0.168,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006968_004.png
+00006981_007.png,['No Finding'],7,6981,061Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006981_007.png
+00006981_012.png,['No Finding'],12,6981,061Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00006981_012.png
+00007018_007.png,['No Finding'],7,7018,021Y,M,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007018_007.png
+00007018_013.png,"['Cardiomegaly', 'Effusion']",13,7018,028Y,M,AP,3020,2544,0.139,0.139,0,1,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007018_013.png
+00007018_027.png,['No Finding'],27,7018,028Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007018_027.png
+00007098_006.png,['No Finding'],6,7098,048Y,F,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007098_006.png
+00007120_015.png,['No Finding'],15,7120,054Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007120_015.png
+00007169_003.png,['No Finding'],3,7169,058Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007169_003.png
+00007193_007.png,['Infiltration'],7,7193,048Y,F,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007193_007.png
+00007193_012.png,['Infiltration'],12,7193,048Y,F,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007193_012.png
+00007285_004.png,['Effusion'],4,7285,072Y,M,PA,2500,2048,0.168,0.168,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007285_004.png
+00007352_000.png,['Hernia'],0,7352,056Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,1,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007352_000.png
+00007444_003.png,['No Finding'],3,7444,039Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007444_003.png
+00007460_000.png,['No Finding'],0,7460,045Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007460_000.png
+00007523_013.png,['No Finding'],13,7523,027Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007523_013.png
+00007666_000.png,['No Finding'],0,7666,011Y,F,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007666_000.png
+00007781_000.png,['No Finding'],0,7781,048Y,F,PA,2608,2696,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007781_000.png
+00007816_001.png,['No Finding'],1,7816,065Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007816_001.png
+00007816_006.png,['Infiltration'],6,7816,065Y,F,PA,2838,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007816_006.png
+00007816_007.png,['Infiltration'],7,7816,065Y,F,AP,3056,2544,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007816_007.png
+00007870_002.png,['No Finding'],2,7870,050Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007870_002.png
+00007882_002.png,['No Finding'],2,7882,058Y,M,AP,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007882_002.png
+00007906_000.png,['No Finding'],0,7906,057Y,F,AP,2500,2048,0.171,0.171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007906_000.png
+00007920_004.png,['No Finding'],4,7920,057Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00007920_004.png
+00008004_009.png,"['Atelectasis', 'Mass']",9,8004,053Y,M,AP,2500,2048,0.168,0.168,1,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008004_009.png
+00008081_000.png,['No Finding'],0,8081,057Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008081_000.png
+00008081_006.png,['Mass'],6,8081,058Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008081_006.png
+00008195_000.png,"['Effusion', 'Pleural_Thickening']",0,8195,055Y,F,PA,2500,2048,0.168,0.168,0,0,1,0,0,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008195_000.png
+00008198_003.png,['No Finding'],3,8198,028Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008198_003.png
+00008276_001.png,['No Finding'],1,8276,057Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008276_001.png
+00008297_001.png,['No Finding'],1,8297,018Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008297_001.png
+00008335_000.png,['No Finding'],0,8335,049Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008335_000.png
+00008339_001.png,['No Finding'],1,8339,056Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008339_001.png
+00008399_006.png,['Infiltration'],6,8399,041Y,F,PA,2048,2500,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008399_006.png
+00008468_022.png,"['Emphysema', 'Pneumothorax']",22,8468,011Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,1,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008468_022.png
+00008468_065.png,"['Emphysema', 'Pneumothorax']",65,8468,011Y,F,PA,2294,2425,0.143,0.143,0,0,0,0,0,0,0,1,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008468_065.png
+00008489_003.png,['No Finding'],3,8489,048Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008489_003.png
+00008573_000.png,['No Finding'],0,8573,063Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008573_000.png
+00008636_003.png,['Nodule'],3,8636,058Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008636_003.png
+00008691_006.png,"['Atelectasis', 'Infiltration']",6,8691,046Y,F,PA,2992,2991,0.143,0.143,1,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008691_006.png
+00008716_000.png,"['Atelectasis', 'Cardiomegaly']",0,8716,033Y,F,PA,2500,2048,0.168,0.168,1,1,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008716_000.png
+00008797_000.png,['No Finding'],0,8797,046Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00008797_000.png
+00009012_008.png,['Infiltration'],8,9012,054Y,F,PA,2870,2817,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009012_008.png
+00009225_000.png,['No Finding'],0,9225,058Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009225_000.png
+00009229_020.png,['No Finding'],20,9229,037Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009229_020.png
+00009234_002.png,['No Finding'],2,9234,046Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009234_002.png
+00009349_014.png,"['Atelectasis', 'Emphysema', 'Infiltration', 'Mass', 'Pneumothorax']",14,9349,070Y,M,PA,2500,2048,0.168,0.168,1,0,0,1,1,0,0,1,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009349_014.png
+00009378_008.png,['No Finding'],8,9378,060Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009378_008.png
+00009584_000.png,['No Finding'],0,9584,030Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009584_000.png
+00009595_000.png,['Cardiomegaly'],0,9595,045Y,F,PA,2048,2500,0.168,0.168,0,1,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009595_000.png
+00009716_000.png,['No Finding'],0,9716,049Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009716_000.png
+00009838_001.png,['No Finding'],1,9838,066Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009838_001.png
+00009876_000.png,['No Finding'],0,9876,066Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009876_000.png
+00009910_000.png,['No Finding'],0,9910,041Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009910_000.png
+00009995_016.png,['No Finding'],16,9995,063Y,M,PA,2886,2741,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00009995_016.png
+00010123_003.png,['Pneumothorax'],3,10123,025Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010123_003.png
+00010274_000.png,['No Finding'],0,10274,041Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010274_000.png
+00010334_005.png,['No Finding'],5,10334,067Y,M,PA,2726,2613,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010334_005.png
+00010352_025.png,['No Finding'],25,10352,031Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010352_025.png
+00010352_035.png,['Atelectasis'],35,10352,031Y,M,PA,2992,2991,0.143,0.143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010352_035.png
+00010352_046.png,['No Finding'],46,10352,032Y,M,PA,2850,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010352_046.png
+00010365_008.png,['No Finding'],8,10365,048Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010365_008.png
+00010432_000.png,['No Finding'],0,10432,050Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010432_000.png
+00010478_001.png,['No Finding'],1,10478,053Y,F,PA,2862,2982,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010478_001.png
+00010478_011.png,"['Effusion', 'Mass']",11,10478,055Y,F,AP,2500,2048,0.168,0.168,0,0,1,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010478_011.png
+00010531_009.png,['No Finding'],9,10531,028Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010531_009.png
+00010531_010.png,['No Finding'],10,10531,028Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010531_010.png
+00010531_022.png,['No Finding'],22,10531,022Y,F,PA,2798,2889,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010531_022.png
+00010531_069.png,['Infiltration'],69,10531,026Y,F,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010531_069.png
+00010620_001.png,['No Finding'],1,10620,051Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010620_001.png
+00010642_000.png,['No Finding'],0,10642,040Y,F,AP,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010642_000.png
+00010773_013.png,['No Finding'],13,10773,054Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010773_013.png
+00010842_001.png,['No Finding'],1,10842,045Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010842_001.png
+00010850_000.png,['No Finding'],0,10850,059Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010850_000.png
+00010850_001.png,['Effusion'],1,10850,059Y,F,PA,2602,2991,0.143,0.143,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010850_001.png
+00010905_013.png,['No Finding'],13,10905,051Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010905_013.png
+00010973_008.png,['Effusion'],8,10973,076Y,M,AP,2500,2048,0.168,0.168,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00010973_008.png
+00011051_000.png,['No Finding'],0,11051,056Y,F,PA,2766,2681,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011051_000.png
+00011144_022.png,['Infiltration'],22,11144,067Y,M,PA,2990,2701,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011144_022.png
+00011153_000.png,['No Finding'],0,11153,054Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011153_000.png
+00011199_000.png,['Mass'],0,11199,034Y,F,PA,2686,2797,0.143,0.143,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011199_000.png
+00011225_000.png,['No Finding'],0,11225,035Y,M,PA,2922,2873,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011225_000.png
+00011249_000.png,['No Finding'],0,11249,066Y,M,PA,2894,2936,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011249_000.png
+00011375_000.png,['No Finding'],0,11375,037Y,F,PA,2710,2821,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011375_000.png
+00011460_021.png,['Pneumothorax'],21,11460,016Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011460_021.png
+00011460_044.png,['Pneumothorax'],44,11460,016Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011460_044.png
+00011460_051.png,"['Infiltration', 'Pneumothorax']",51,11460,016Y,M,PA,2578,2991,0.143,0.143,0,0,0,1,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011460_051.png
+00011463_000.png,['Cardiomegaly'],0,11463,028Y,F,PA,2786,2649,0.143,0.143,0,1,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011463_000.png
+00011538_002.png,['No Finding'],2,11538,018Y,F,PA,2210,2275,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011538_002.png
+00011580_000.png,['No Finding'],0,11580,047Y,M,PA,2902,2948,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011580_000.png
+00011598_007.png,['No Finding'],7,11598,075Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011598_007.png
+00011598_013.png,['No Finding'],13,11598,075Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011598_013.png
+00011598_015.png,['No Finding'],15,11598,075Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011598_015.png
+00011598_038.png,['Infiltration'],38,11598,076Y,M,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011598_038.png
+00011622_000.png,['No Finding'],0,11622,049Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011622_000.png
+00011622_007.png,['Mass'],7,11622,049Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011622_007.png
+00011655_000.png,['No Finding'],0,11655,042Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011655_000.png
+00011785_000.png,['No Finding'],0,11785,016Y,M,AP,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011785_000.png
+00011785_002.png,['No Finding'],2,11785,016Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011785_002.png
+00011814_009.png,['Pneumothorax'],9,11814,066Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011814_009.png
+00011831_007.png,['Pneumothorax'],7,11831,056Y,F,PA,2446,2565,0.143,0.143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011831_007.png
+00011831_008.png,"['Emphysema', 'Pneumothorax']",8,11831,056Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,1,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011831_008.png
+00011831_010.png,"['Emphysema', 'Pneumothorax']",10,11831,056Y,F,PA,2666,2991,0.143,0.143,0,0,0,0,0,0,0,1,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011831_010.png
+00011847_001.png,['No Finding'],1,11847,065Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011847_001.png
+00011884_001.png,['No Finding'],1,11884,024Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011884_001.png
+00011906_002.png,['No Finding'],2,11906,067Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011906_002.png
+00011973_013.png,['No Finding'],13,11973,061Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011973_013.png
+00011993_000.png,['Nodule'],0,11993,082Y,F,PA,2646,2991,0.143,0.143,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00011993_000.png
+00012054_000.png,['Infiltration'],0,12054,051Y,M,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012054_000.png
+00012079_003.png,['No Finding'],3,12079,043Y,F,PA,2886,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012079_003.png
+00012082_001.png,['Infiltration'],1,12082,010Y,M,PA,2544,3056,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012082_001.png
+00012116_001.png,['No Finding'],1,12116,046Y,F,PA,2592,2727,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012116_001.png
+00012116_003.png,['No Finding'],3,12116,051Y,F,PA,2536,2980,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012116_003.png
+00012146_002.png,['Infiltration'],2,12146,020Y,M,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012146_002.png
+00012146_005.png,['No Finding'],5,12146,020Y,M,PA,2546,2449,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012146_005.png
+00012146_006.png,['No Finding'],6,12146,020Y,M,PA,2438,2545,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012146_006.png
+00012158_025.png,['Pneumonia'],25,12158,047Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012158_025.png
+00012184_000.png,"['Cardiomegaly', 'Effusion']",0,12184,056Y,F,AP,2048,2500,0.168,0.168,0,1,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012184_000.png
+00012184_005.png,['No Finding'],5,12184,056Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012184_005.png
+00012291_012.png,['No Finding'],12,12291,056Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012291_012.png
+00012291_013.png,['No Finding'],13,12291,056Y,M,AP,3016,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012291_013.png
+00012484_001.png,['No Finding'],1,12484,054Y,F,PA,2686,2673,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012484_001.png
+00012484_002.png,['No Finding'],2,12484,054Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012484_002.png
+00012681_007.png,['No Finding'],7,12681,058Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012681_007.png
+00012681_043.png,['No Finding'],43,12681,060Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012681_043.png
+00012681_049.png,['No Finding'],49,12681,060Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012681_049.png
+00012692_001.png,"['Consolidation', 'Infiltration']",1,12692,059Y,M,PA,2992,2991,0.143,0.143,0,0,0,1,0,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00012692_001.png
+00013071_004.png,['No Finding'],4,13071,010Y,F,PA,2570,2773,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013071_004.png
+00013104_001.png,"['Infiltration', 'Nodule']",1,13104,069Y,M,PA,2992,2991,0.143,0.143,0,0,0,1,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013104_001.png
+00013152_005.png,['No Finding'],5,13152,050Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013152_005.png
+00013176_005.png,['Edema'],5,13176,055Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,1,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013176_005.png
+00013226_000.png,['Infiltration'],0,13226,037Y,F,PA,2554,2862,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013226_000.png
+00013282_004.png,['Pneumothorax'],4,13282,056Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013282_004.png
+00013303_000.png,['No Finding'],0,13303,034Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013303_000.png
+00013576_005.png,['Effusion'],5,13576,060Y,M,PA,2500,2048,0.168,0.168,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013576_005.png
+00013613_007.png,"['Effusion', 'Pleural_Thickening']",7,13613,048Y,F,AP,2500,2048,0.168,0.168,0,0,1,0,0,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013613_007.png
+00013613_013.png,['No Finding'],13,13613,048Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013613_013.png
+00013613_021.png,['No Finding'],21,13613,048Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013613_021.png
+00013613_027.png,['Effusion'],27,13613,048Y,F,AP,2500,2048,0.168,0.168,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013613_027.png
+00013736_000.png,['Effusion'],0,13736,067Y,M,PA,2992,2991,0.143,0.143,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013736_000.png
+00013750_026.png,['No Finding'],26,13750,057Y,M,PA,2710,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013750_026.png
+00013756_000.png,['No Finding'],0,13756,047Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013756_000.png
+00013807_003.png,"['Effusion', 'Infiltration']",3,13807,063Y,F,AP,2500,2048,0.168,0.168,0,0,1,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013807_003.png
+00013807_005.png,['Edema'],5,13807,063Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,1,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013807_005.png
+00013876_000.png,['No Finding'],0,13876,053Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013876_000.png
+00013924_003.png,['Pneumothorax'],3,13924,059Y,F,PA,2498,2513,0.143,0.143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013924_003.png
+00013934_000.png,['Atelectasis'],0,13934,060Y,M,PA,2500,2048,0.168,0.168,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00013934_000.png
+00014004_001.png,['No Finding'],1,14004,054Y,F,PA,2766,2589,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014004_001.png
+00014004_012.png,"['Edema', 'Pneumonia']",12,14004,058Y,F,AP,2916,2544,0.139,0.139,0,0,0,0,0,0,1,0,0,1,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014004_012.png
+00014004_013.png,['Nodule'],13,14004,058Y,F,AP,2604,2544,0.139,0.139,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014004_013.png
+00014004_045.png,"['Infiltration', 'Nodule']",45,14004,058Y,F,AP,2048,2500,0.168,0.168,0,0,0,1,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014004_045.png
+00014024_003.png,['No Finding'],3,14024,047Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014024_003.png
+00014095_002.png,"['Atelectasis', 'Effusion']",2,14095,060Y,F,PA,2992,2991,0.143,0.143,1,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014095_002.png
+00014110_000.png,['No Finding'],0,14110,029Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014110_000.png
+00014186_001.png,['No Finding'],1,14186,059Y,M,PA,2990,2948,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014186_001.png
+00014242_000.png,['No Finding'],0,14242,032Y,F,PA,2678,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014242_000.png
+00014292_000.png,['No Finding'],0,14292,028Y,M,PA,2544,3056,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014292_000.png
+00014306_004.png,['Nodule'],4,14306,051Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014306_004.png
+00014371_000.png,['No Finding'],0,14371,026Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014371_000.png
+00014684_000.png,['No Finding'],0,14684,062Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014684_000.png
+00014684_001.png,['Infiltration'],1,14684,062Y,F,PA,2992,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014684_001.png
+00014753_000.png,"['Infiltration', 'Mass']",0,14753,024Y,M,PA,2992,2991,0.143,0.143,0,0,0,1,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014753_000.png
+00014822_038.png,"['Mass', 'Pneumothorax']",38,14822,062Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,1,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014822_038.png
+00014947_000.png,['Infiltration'],0,14947,042Y,M,PA,3056,2544,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014947_000.png
+00014958_014.png,['Atelectasis'],14,14958,019Y,F,PA,2820,2991,0.143,0.143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00014958_014.png
+00015007_009.png,['No Finding'],9,15007,003Y,F,PA,2072,1615,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015007_009.png
+00015123_000.png,['No Finding'],0,15123,054Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015123_000.png
+00015149_000.png,['No Finding'],0,15149,075Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015149_000.png
+00015160_002.png,['No Finding'],2,15160,038Y,F,PA,2986,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015160_002.png
+00015160_022.png,['Infiltration'],22,15160,039Y,F,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015160_022.png
+00015166_004.png,['Fibrosis'],4,15166,058Y,M,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,1,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015166_004.png
+00015169_000.png,['No Finding'],0,15169,076Y,F,PA,2982,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015169_000.png
+00015186_000.png,['No Finding'],0,15186,036Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015186_000.png
+00015236_000.png,['Effusion'],0,15236,058Y,F,PA,2794,2476,0.143,0.143,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015236_000.png
+00015255_014.png,['No Finding'],14,15255,046Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015255_014.png
+00015360_002.png,['No Finding'],2,15360,051Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015360_002.png
+00015667_000.png,['No Finding'],0,15667,038Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015667_000.png
+00015785_002.png,['No Finding'],2,15785,028Y,F,PA,2286,2391,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015785_002.png
+00015794_003.png,['No Finding'],3,15794,067Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015794_003.png
+00015809_009.png,['No Finding'],9,15809,037Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015809_009.png
+00015945_001.png,"['Effusion', 'Infiltration']",1,15945,065Y,M,PA,2992,2991,0.143,0.143,0,0,1,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015945_001.png
+00015953_022.png,"['Atelectasis', 'Consolidation']",22,15953,041Y,F,PA,2762,2991,0.143,0.143,1,0,0,0,0,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00015953_022.png
+00016079_007.png,['Infiltration'],7,16079,074Y,M,PA,2982,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016079_007.png
+00016079_014.png,['Nodule'],14,16079,074Y,M,PA,2770,2843,0.143,0.143,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016079_014.png
+00016086_002.png,"['Effusion', 'Mass']",2,16086,060Y,M,PA,2992,2991,0.143,0.143,0,0,1,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016086_002.png
+00016166_002.png,['No Finding'],2,16166,059Y,M,PA,2021,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016166_002.png
+00016240_001.png,['Infiltration'],1,16240,057Y,M,AP,3056,2544,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016240_001.png
+00016240_002.png,['Nodule'],2,16240,057Y,M,PA,2021,2011,0.194311,0.194311,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016240_002.png
+00016414_000.png,['Cardiomegaly'],0,16414,039Y,M,PA,2992,2991,0.143,0.143,0,1,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016414_000.png
+00016417_009.png,"['Atelectasis', 'Effusion', 'Mass', 'Pleural_Thickening']",9,16417,060Y,M,PA,2766,2991,0.143,0.143,1,0,1,0,1,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016417_009.png
+00016484_012.png,['No Finding'],12,16484,006Y,F,PA,2530,2357,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016484_012.png
+00016484_026.png,['No Finding'],26,16484,007Y,F,AP,3020,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016484_026.png
+00016521_006.png,"['Mass', 'Nodule', 'Pneumothorax']",6,16521,073Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,1,1,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016521_006.png
+00016521_008.png,['Mass'],8,16521,073Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016521_008.png
+00016596_000.png,['No Finding'],0,16596,031Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016596_000.png
+00016874_000.png,['No Finding'],0,16874,051Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016874_000.png
+00016918_000.png,['No Finding'],0,16918,064Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016918_000.png
+00016918_017.png,['No Finding'],17,16918,064Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016918_017.png
+00016975_003.png,['No Finding'],3,16975,028Y,M,PA,2878,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016975_003.png
+00016992_000.png,['No Finding'],0,16992,014Y,M,PA,2830,2777,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00016992_000.png
+00017049_011.png,['No Finding'],11,17049,039Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017049_011.png
+00017151_010.png,['No Finding'],10,17151,031Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017151_010.png
+00017151_012.png,"['Atelectasis', 'Effusion']",12,17151,031Y,M,PA,2992,2991,0.143,0.143,1,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017151_012.png
+00017153_000.png,['No Finding'],0,17153,028Y,F,PA,2598,2545,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017153_000.png
+00017213_002.png,['No Finding'],2,17213,049Y,F,AP,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017213_002.png
+00017325_000.png,['No Finding'],0,17325,066Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017325_000.png
+00017555_002.png,['No Finding'],2,17555,066Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017555_002.png
+00017714_008.png,['Infiltration'],8,17714,020Y,M,PA,2992,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017714_008.png
+00017714_019.png,['Pneumonia'],19,17714,020Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017714_019.png
+00017714_026.png,['No Finding'],26,17714,020Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017714_026.png
+00017714_027.png,['No Finding'],27,17714,020Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017714_027.png
+00017714_037.png,['No Finding'],37,17714,019Y,M,AP,3040,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017714_037.png
+00017724_002.png,['No Finding'],2,17724,052Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017724_002.png
+00017804_000.png,['No Finding'],0,17804,048Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017804_000.png
+00017830_002.png,['Effusion'],2,17830,052Y,M,PA,2914,2991,0.143,0.143,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017830_002.png
+00017915_000.png,['No Finding'],0,17915,049Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017915_000.png
+00017934_000.png,['No Finding'],0,17934,071Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00017934_000.png
+00018000_002.png,"['Atelectasis', 'Infiltration']",2,18000,045Y,F,PA,2992,2991,0.143,0.143,1,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018000_002.png
+00018000_004.png,"['Atelectasis', 'Pneumothorax']",4,18000,045Y,F,PA,2770,2869,0.143,0.143,1,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018000_004.png
+00018176_000.png,"['Fibrosis', 'Infiltration']",0,18176,055Y,M,PA,2992,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,1,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018176_000.png
+00018266_000.png,['No Finding'],0,18266,026Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018266_000.png
+00018331_005.png,['No Finding'],5,18331,028Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018331_005.png
+00018359_005.png,['No Finding'],5,18359,094Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018359_005.png
+00018362_010.png,['No Finding'],10,18362,047Y,M,PA,3056,2508,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018362_010.png
+00018419_001.png,['Atelectasis'],1,18419,054Y,M,PA,2992,2991,0.143,0.143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018419_001.png
+00018525_002.png,['No Finding'],2,18525,033Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018525_002.png
+00018525_005.png,['Infiltration'],5,18525,034Y,M,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018525_005.png
+00018687_001.png,['No Finding'],1,18687,055Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018687_001.png
+00018855_001.png,['No Finding'],1,18855,054Y,M,PA,2850,2847,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018855_001.png
+00018872_001.png,['No Finding'],1,18872,053Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018872_001.png
+00018921_016.png,"['Infiltration', 'Pneumothorax']",16,18921,043Y,F,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018921_016.png
+00018921_024.png,"['Effusion', 'Pneumothorax']",24,18921,043Y,F,AP,2500,2048,0.168,0.168,0,0,1,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018921_024.png
+00018921_041.png,['Pneumothorax'],41,18921,043Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018921_041.png
+00018921_042.png,['No Finding'],42,18921,043Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018921_042.png
+00018936_003.png,['Atelectasis'],3,18936,044Y,M,AP,2500,2048,0.168,0.168,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018936_003.png
+00018949_002.png,['Pleural_Thickening'],2,18949,007Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018949_002.png
+00018997_001.png,['No Finding'],1,18997,057Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00018997_001.png
+00019018_001.png,['Infiltration'],1,19018,028Y,M,AP,3056,2544,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019018_001.png
+00019089_002.png,"['Mass', 'Nodule']",2,19089,023Y,F,PA,2318,2991,0.143,0.143,0,0,0,0,1,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019089_002.png
+00019089_010.png,"['Effusion', 'Mass']",10,19089,027Y,F,AP,3056,2544,0.139,0.139,0,0,1,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019089_010.png
+00019089_011.png,"['Atelectasis', 'Consolidation', 'Infiltration', 'Mass', 'Pleural_Thickening']",11,19089,027Y,F,AP,3056,2544,0.139,0.139,1,0,0,1,1,0,0,0,1,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019089_011.png
+00019216_003.png,['Atelectasis'],3,19216,062Y,M,PA,2566,2677,0.143,0.143,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019216_003.png
+00019218_001.png,['No Finding'],1,19218,063Y,M,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019218_001.png
+00019223_000.png,"['Fibrosis', 'Mass']",0,19223,043Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,1,0,0,0,0,0,0,1,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019223_000.png
+00019271_013.png,"['Atelectasis', 'Infiltration']",13,19271,054Y,M,AP,3056,2544,0.139,0.139,1,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019271_013.png
+00019271_024.png,['No Finding'],24,19271,054Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019271_024.png
+00019271_058.png,"['Atelectasis', 'Infiltration']",58,19271,055Y,M,AP,2500,2048,0.168,0.168,1,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019271_058.png
+00019293_000.png,['No Finding'],0,19293,012Y,F,PA,2586,2509,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019293_000.png
+00019303_000.png,['No Finding'],0,19303,037Y,F,PA,2830,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019303_000.png
+00019360_001.png,['No Finding'],1,19360,036Y,F,PA,2476,2840,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019360_001.png
+00019448_006.png,['No Finding'],6,19448,031Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019448_006.png
+00019466_001.png,['No Finding'],1,19466,043Y,F,AP,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019466_001.png
+00019468_000.png,['No Finding'],0,19468,079Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019468_000.png
+00019594_002.png,['Effusion'],2,19594,056Y,M,AP,3056,2544,0.139,0.139,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019594_002.png
+00019594_003.png,['Effusion'],3,19594,056Y,M,AP,3056,2544,0.139,0.139,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019594_003.png
+00019594_016.png,"['Consolidation', 'Effusion', 'Mass']",16,19594,057Y,M,PA,2992,2991,0.143,0.143,0,0,1,0,1,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019594_016.png
+00019594_027.png,['No Finding'],27,19594,057Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019594_027.png
+00019805_002.png,['Mass'],2,19805,029Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019805_002.png
+00019824_000.png,['No Finding'],0,19824,036Y,F,PA,2832,2898,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019824_000.png
+00019870_001.png,"['Infiltration', 'Mass']",1,19870,047Y,M,PA,3056,2544,0.139,0.139,0,0,0,1,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019870_001.png
+00019894_040.png,['No Finding'],40,19894,061Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019894_040.png
+00019918_000.png,"['Infiltration', 'Pneumothorax']",0,19918,052Y,F,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019918_000.png
+00019965_000.png,['No Finding'],0,19965,082Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00019965_000.png
+00020078_001.png,['No Finding'],1,20078,064Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020078_001.png
+00020090_000.png,['No Finding'],0,20090,039Y,F,PA,2534,2982,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020090_000.png
+00020159_001.png,['Infiltration'],1,20159,052Y,M,AP,2500,2048,0.168,0.168,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020159_001.png
+00020204_019.png,['No Finding'],19,20204,035Y,F,PA,2538,2833,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020204_019.png
+00020289_000.png,['No Finding'],0,20289,064Y,M,PA,3056,2484,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020289_000.png
+00020430_000.png,['Infiltration'],0,20430,071Y,M,PA,2774,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020430_000.png
+00020458_011.png,['No Finding'],11,20458,054Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020458_011.png
+00020458_022.png,"['Infiltration', 'Pneumothorax']",22,20458,054Y,M,AP,3056,2544,0.139,0.139,0,0,0,1,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020458_022.png
+00020601_002.png,['Atelectasis'],2,20601,059Y,F,AP,3056,2544,0.139,0.139,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020601_002.png
+00020607_001.png,['No Finding'],1,20607,053Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020607_001.png
+00020607_002.png,['No Finding'],2,20607,053Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020607_002.png
+00020624_011.png,['No Finding'],11,20624,070Y,M,PA,2838,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020624_011.png
+00020631_004.png,['No Finding'],4,20631,047Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00020631_004.png
+00021023_002.png,['No Finding'],2,21023,018Y,F,AP,3020,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021023_002.png
+00021023_011.png,['No Finding'],11,21023,017Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021023_011.png
+00021163_000.png,['Infiltration'],0,21163,021Y,F,AP,3056,2544,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021163_000.png
+00021188_007.png,"['Infiltration', 'Nodule']",7,21188,066Y,F,PA,2992,2991,0.143,0.143,0,0,0,1,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021188_007.png
+00021188_012.png,['Atelectasis'],12,21188,066Y,F,PA,2544,3056,0.139,0.139,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021188_012.png
+00021229_000.png,['No Finding'],0,21229,056Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021229_000.png
+00021381_008.png,['No Finding'],8,21381,065Y,F,PA,2794,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021381_008.png
+00021381_009.png,['No Finding'],9,21381,065Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021381_009.png
+00021381_037.png,"['Infiltration', 'Mass', 'Nodule', 'Pleural_Thickening', 'Pneumothorax']",37,21381,065Y,F,PA,2992,2991,0.143,0.143,0,0,0,1,1,1,0,1,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021381_037.png
+00021582_001.png,['No Finding'],1,21582,072Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021582_001.png
+00021582_010.png,['No Finding'],10,21582,072Y,F,PA,2614,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021582_010.png
+00021616_004.png,['No Finding'],4,21616,053Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021616_004.png
+00021616_009.png,['No Finding'],9,21616,053Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021616_009.png
+00021651_005.png,['No Finding'],5,21651,060Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021651_005.png
+00021782_018.png,['No Finding'],18,21782,035Y,F,PA,1697,1960,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021782_018.png
+00021782_027.png,['Pneumothorax'],27,21782,031Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021782_027.png
+00021969_001.png,"['Cardiomegaly', 'Effusion', 'Infiltration', 'Nodule']",1,21969,056Y,F,AP,3056,2544,0.139,0.139,0,1,1,1,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021969_001.png
+00021988_005.png,['Infiltration'],5,21988,018Y,M,PA,2992,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00021988_005.png
+00022137_000.png,['No Finding'],0,22137,047Y,F,PA,2494,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022137_000.png
+00022166_001.png,['Infiltration'],1,22166,019Y,F,PA,2374,2645,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022166_001.png
+00022173_000.png,['Pleural_Thickening'],0,22173,067Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022173_000.png
+00022569_000.png,['No Finding'],0,22569,055Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022569_000.png
+00022611_005.png,"['Cardiomegaly', 'Consolidation', 'Effusion']",5,22611,030Y,F,AP,3056,2544,0.139,0.139,0,1,1,0,0,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022611_005.png
+00022633_000.png,['Emphysema'],0,22633,074Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022633_000.png
+00022670_001.png,"['Effusion', 'Pneumothorax']",1,22670,055Y,F,PA,2544,3056,0.139,0.139,0,0,1,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022670_001.png
+00022672_009.png,"['Atelectasis', 'Consolidation', 'Effusion']",9,22672,066Y,F,PA,2992,2991,0.143,0.143,1,0,1,0,0,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022672_009.png
+00022815_025.png,['No Finding'],25,22815,009Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022815_025.png
+00022815_077.png,['Infiltration'],77,22815,009Y,M,AP,3056,2544,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022815_077.png
+00022815_080.png,"['Edema', 'Infiltration', 'Nodule']",80,22815,009Y,M,AP,3056,2544,0.139,0.139,0,0,0,1,0,1,0,0,0,1,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022815_080.png
+00022826_002.png,"['Effusion', 'Emphysema', 'Pneumothorax']",2,22826,061Y,M,PA,2992,2991,0.143,0.143,0,0,1,0,0,0,0,1,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022826_002.png
+00022883_002.png,"['Atelectasis', 'Effusion', 'Infiltration']",2,22883,067Y,M,PA,2992,2991,0.143,0.143,1,0,1,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022883_002.png
+00022883_006.png,['Effusion'],6,22883,067Y,M,AP,3056,2544,0.139,0.139,0,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00022883_006.png
+00023009_003.png,['Pleural_Thickening'],3,23009,020Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023009_003.png
+00023009_006.png,['Pneumothorax'],6,23009,020Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023009_006.png
+00023069_002.png,['Infiltration'],2,23069,056Y,M,AP,3056,2544,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023069_002.png
+00023180_000.png,['No Finding'],0,23180,050Y,M,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023180_000.png
+00023216_000.png,['No Finding'],0,23216,052Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023216_000.png
+00023279_000.png,['No Finding'],0,23279,039Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023279_000.png
+00023325_019.png,"['Atelectasis', 'Cardiomegaly', 'Effusion']",19,23325,081Y,F,AP,2048,2500,0.168,0.168,1,1,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023325_019.png
+00023325_027.png,['No Finding'],27,23325,083Y,F,AP,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023325_027.png
+00023907_000.png,['No Finding'],0,23907,037Y,F,PA,2978,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00023907_000.png
+00024080_000.png,['No Finding'],0,24080,030Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00024080_000.png
+00024103_000.png,['No Finding'],0,24103,029Y,F,PA,2048,2500,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00024103_000.png
+00024566_000.png,['No Finding'],0,24566,025Y,M,PA,2500,2048,0.168,0.168,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00024566_000.png
+00024592_000.png,['No Finding'],0,24592,038Y,F,PA,2540,3056,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00024592_000.png
+00024851_000.png,['No Finding'],0,24851,021Y,F,PA,2484,3036,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00024851_000.png
+00024891_000.png,['No Finding'],0,24891,030Y,M,PA,2610,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00024891_000.png
+00025033_000.png,['No Finding'],0,25033,036Y,F,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025033_000.png
+00025133_001.png,['No Finding'],1,25133,045Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025133_001.png
+00025380_000.png,['No Finding'],0,25380,032Y,F,PA,2544,3056,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025380_000.png
+00025442_001.png,['No Finding'],1,25442,041Y,M,PA,2806,2741,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025442_001.png
+00025529_001.png,['No Finding'],1,25529,035Y,M,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025529_001.png
+00025529_013.png,"['Edema', 'Effusion', 'Infiltration']",13,25529,035Y,M,AP,3056,2544,0.139,0.139,0,0,1,1,0,0,0,0,0,1,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025529_013.png
+00025542_004.png,['No Finding'],4,25542,027Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025542_004.png
+00025862_001.png,['No Finding'],1,25862,041Y,M,PA,2021,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025862_001.png
+00025994_005.png,['No Finding'],5,25994,026Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00025994_005.png
+00026120_001.png,"['Infiltration', 'Nodule']",1,26120,067Y,M,AP,3056,2544,0.139,0.139,0,0,0,1,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026120_001.png
+00026157_002.png,['Infiltration'],2,26157,047Y,M,PA,2992,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026157_002.png
+00026179_003.png,['Pneumonia'],3,26179,026Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026179_003.png
+00026179_005.png,['Infiltration'],5,26179,026Y,F,PA,2992,2991,0.143,0.143,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026179_005.png
+00026204_015.png,"['Edema', 'Nodule']",15,26204,038Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,1,0,0,0,1,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026204_015.png
+00026204_016.png,['No Finding'],16,26204,038Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026204_016.png
+00026333_000.png,['No Finding'],0,26333,040Y,F,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026333_000.png
+00026336_001.png,"['Fibrosis', 'Pleural_Thickening']",1,26336,051Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,1,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026336_001.png
+00026469_007.png,['No Finding'],7,26469,023Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026469_007.png
+00026513_002.png,['No Finding'],2,26513,055Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026513_002.png
+00026562_011.png,"['Effusion', 'Infiltration']",11,26562,047Y,M,PA,2992,2991,0.143,0.143,0,0,1,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026562_011.png
+00026683_004.png,['Pneumothorax'],4,26683,050Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026683_004.png
+00026925_003.png,['Infiltration'],3,26925,038Y,F,AP,2544,3056,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026925_003.png
+00026925_005.png,['No Finding'],5,26925,038Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026925_005.png
+00026970_002.png,['No Finding'],2,26970,027Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00026970_002.png
+00027038_003.png,['No Finding'],3,27038,064Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027038_003.png
+00027128_001.png,['No Finding'],1,27128,038Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027128_001.png
+00027290_000.png,['Nodule'],0,27290,057Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027290_000.png
+00027337_000.png,['No Finding'],0,27337,039Y,M,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027337_000.png
+00027397_000.png,['No Finding'],0,27397,019Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027397_000.png
+00027642_002.png,['No Finding'],2,27642,064Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027642_002.png
+00027656_001.png,['Infiltration'],1,27656,049Y,M,PA,2021,2021,0.194311,0.194311,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027656_001.png
+00027706_014.png,['No Finding'],14,27706,035Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027706_014.png
+00027748_000.png,['No Finding'],0,27748,027Y,M,PA,2992,2991,0.143,0.143,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027748_000.png
+00027757_000.png,['No Finding'],0,27757,021Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027757_000.png
+00027757_002.png,"['Effusion', 'Infiltration', 'Pneumonia']",2,27757,021Y,M,AP,3056,2544,0.139,0.139,0,0,1,1,0,0,1,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00027757_002.png
+00028082_000.png,['No Finding'],0,28082,029Y,F,PA,2020,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028082_000.png
+00028156_000.png,"['Mass', 'Pleural_Thickening']",0,28156,017Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,1,0,0,0,0,0,0,0,1,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028156_000.png
+00028219_002.png,['Mass'],2,28219,055Y,F,PA,2992,2991,0.143,0.143,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028219_002.png
+00028489_000.png,['No Finding'],0,28489,005Y,F,PA,2544,3056,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028489_000.png
+00028519_000.png,['Infiltration'],0,28519,065Y,M,PA,2021,2021,0.194311,0.194311,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028519_000.png
+00028765_020.png,['Infiltration'],20,28765,032Y,F,AP,3056,2544,0.139,0.139,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028765_020.png
+00028774_005.png,['No Finding'],5,28774,068Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028774_005.png
+00028774_007.png,['No Finding'],7,28774,068Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028774_007.png
+00028774_012.png,['Nodule'],12,28774,068Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028774_012.png
+00028774_021.png,"['Cardiomegaly', 'Effusion']",21,28774,068Y,F,AP,3056,2544,0.139,0.139,0,1,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028774_021.png
+00028774_031.png,"['Atelectasis', 'Consolidation', 'Infiltration']",31,28774,068Y,F,AP,3056,2544,0.139,0.139,1,0,0,1,0,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028774_031.png
+00028916_002.png,['No Finding'],2,28916,085Y,M,PA,2021,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028916_002.png
+00028924_004.png,['Atelectasis'],4,28924,072Y,F,PA,2020,2021,0.194314,0.194314,1,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028924_004.png
+00028924_005.png,['Pneumonia'],5,28924,072Y,F,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,1,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028924_005.png
+00028986_000.png,['No Finding'],0,28986,074Y,M,PA,2020,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00028986_000.png
+00029027_000.png,['No Finding'],0,29027,030Y,M,PA,2544,3020,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029027_000.png
+00029039_004.png,['No Finding'],4,29039,061Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029039_004.png
+00029142_006.png,['Infiltration'],6,29142,035Y,F,PA,2021,2021,0.194311,0.194311,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029142_006.png
+00029207_005.png,"['Atelectasis', 'Consolidation', 'Mass']",5,29207,023Y,M,PA,2021,2021,0.194311,0.194311,1,0,0,0,1,0,0,0,1,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029207_005.png
+00029310_000.png,['Nodule'],0,29310,022Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,1,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029310_000.png
+00029431_003.png,['Emphysema'],3,29431,065Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,1,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029431_003.png
+00029437_005.png,['Pneumothorax'],5,29437,048Y,M,PA,2021,2020,0.194311,0.194311,0,0,0,0,0,0,0,1,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029437_005.png
+00029459_004.png,"['Cardiomegaly', 'Effusion']",4,29459,052Y,M,PA,2021,2021,0.194311,0.194311,0,1,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029459_004.png
+00029510_000.png,['Cardiomegaly'],0,29510,051Y,F,PA,3056,2544,0.139,0.139,0,1,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029510_000.png
+00029537_000.png,['No Finding'],0,29537,042Y,F,PA,2021,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029537_000.png
+00029745_001.png,['No Finding'],1,29745,046Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029745_001.png
+00029891_002.png,['No Finding'],2,29891,025Y,F,PA,2544,3056,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029891_002.png
+00029976_011.png,['Mass'],11,29976,051Y,M,PA,3056,2544,0.139,0.139,0,0,0,0,1,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00029976_011.png
+00030097_000.png,['Infiltration'],0,30097,061Y,F,PA,2021,2021,0.194311,0.194311,0,0,0,1,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030097_000.png
+00030106_004.png,"['Atelectasis', 'Effusion']",4,30106,073Y,M,AP,3056,2544,0.139,0.139,1,0,1,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030106_004.png
+00030182_000.png,['No Finding'],0,30182,031Y,M,PA,2020,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030182_000.png
+00030218_001.png,['No Finding'],1,30218,049Y,M,AP,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030218_001.png
+00030262_001.png,['No Finding'],1,30262,070Y,M,PA,2020,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030262_001.png
+00030418_000.png,['No Finding'],0,30418,022Y,M,PA,2021,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030418_000.png
+00030418_001.png,['No Finding'],1,30418,022Y,M,PA,2021,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030418_001.png
+00030565_000.png,['No Finding'],0,30565,022Y,F,PA,3056,2544,0.139,0.139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030565_000.png
+00030704_000.png,['No Finding'],0,30704,052Y,F,PA,2021,2021,0.194311,0.194311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,D:\Pradeep Pandey\Nexvia Technology  Intership\Project 1\data\sample\images\00030704_000.png

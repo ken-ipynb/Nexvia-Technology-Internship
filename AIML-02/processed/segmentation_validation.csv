@@ -1,0 +1,14 @@
+filename,cancer_voxels,lesion_group
+lung_065.nii.gz,31406,large
+lung_057.nii.gz,3128,small
+lung_083.nii.gz,1835,small
+lung_026.nii.gz,29278,large
+lung_093.nii.gz,2967,small
+lung_058.nii.gz,878,small
+lung_018.nii.gz,9239,medium
+lung_014.nii.gz,90435,large
+lung_033.nii.gz,39103,large
+lung_045.nii.gz,6923,medium
+lung_049.nii.gz,7852,medium
+lung_069.nii.gz,1079,small
+lung_044.nii.gz,13700,medium

@@ -1,0 +1,11 @@
+fastapi==0.162.5
+uvicorn==0.54.0
+torch==2.15.0
+torchvision==0.29.2
+monai==1.6.1
+numpy==2.4.6
+nibabel==5.4.2
+pydicom==3.0.2
+Pillow==13.0.0
+requests==2.34.2
+python-multipart==0.0.33
